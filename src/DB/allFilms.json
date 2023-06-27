@@ -1,0 +1,44 @@
+{
+  "all_films": {
+    "films": [
+      {
+        "title": "Spider Man",
+        "parent": "films"
+      },
+      {
+        "title": "Iron Man"
+      },
+      {
+        "title": "Tor"
+      }
+    ],
+    "serials": [
+      {
+        "title": "Mandalorian"
+      },      {
+        "title": "She Hulk"
+      },      {
+        "title": "Loki"
+      },      {
+        "title": "Ichaki"
+      }
+    ],
+    "animation_films": [
+      {
+        "title": "Tom and Jerry"
+      },
+      {
+        "title": "Sponge Bob"
+      },
+      {
+        "title": "Lion King"
+      },
+      {
+        "title": "Batman (Animation Films)"
+      },
+      {
+        "title": "Lego Move"
+      }
+    ]
+  }
+}

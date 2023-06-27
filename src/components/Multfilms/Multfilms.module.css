@@ -1,0 +1,13 @@
+.multfilmsBlock{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    grid-gap: 10px;
+    background-color: #49498c;
+}
+.multfilmsBlock>div{
+    width: 20%;
+    height: 20%;
+    background-color: green;
+}

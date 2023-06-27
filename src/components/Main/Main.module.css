@@ -1,0 +1,28 @@
+.mainBlock{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+}
+.categories{
+    width: 20%;
+    height: 100%;
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    position: fixed;
+}
+.movieSection{
+    width: 80%;
+    height: 100%;
+    display: flex;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.hidden{
+    width: 20%;
+}
